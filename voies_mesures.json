@@ -1,0 +1,27 @@
+[
+	{
+		"id": 0,
+		"name": "Alimentation Station",
+		"processings": {
+			"id": 0,
+			"name": "Alim LNS",
+			"type": "ana"
+		}
+	},
+	{
+		"id": 1,
+		"name": "Entrée 4-20 Ext1",
+		"processings": [
+			{
+				"id": 0,
+				"name": "PP20 témoin",
+				"type": "ana"
+			},
+			{
+				"id": 1,
+				"name": "hauteur d'eau créneau",
+				"type": "ana"
+			}
+		]
+	}
+]
