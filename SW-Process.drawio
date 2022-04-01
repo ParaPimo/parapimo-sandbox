@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:51:43.804Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="mCjvhQ3Zk7slME9FhgA7" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:53:59.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wo-DvaUc4JqDdnziJEz6" version="17.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1182" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,6 +11,9 @@
           <mxGeometry x="40" y="10" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Or5xMmGlH_DIaF3GOCbk-0" target="Or5xMmGlH_DIaF3GOCbk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Or5xMmGlH_DIaF3GOCbk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Or5xMmGlH_DIaF3GOCbk-0" target="Or5xMmGlH_DIaF3GOCbk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-0" value="Specify / CdC&lt;br&gt;&quot;Stories&quot;&lt;br&gt;Requirements" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -50,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-12" value="Test version&lt;br&gt;(validation team..., user, ...)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="440" width="130" height="50" as="geometry" />
+          <mxGeometry x="760" y="440" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-17" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Or5xMmGlH_DIaF3GOCbk-14" target="Or5xMmGlH_DIaF3GOCbk-16">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-14" value="All Requirement&amp;nbsp; are Implemented ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="675" y="540" width="180" height="80" as="geometry" />
+          <mxGeometry x="735" y="510" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Or5xMmGlH_DIaF3GOCbk-16" target="Or5xMmGlH_DIaF3GOCbk-18">
           <mxGeometry relative="1" as="geometry" />
@@ -68,10 +71,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-16" value="Debug Finished" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="675" y="680" width="180" height="80" as="geometry" />
+          <mxGeometry x="735" y="630" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Or5xMmGlH_DIaF3GOCbk-18" value="Deploy Release" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="705" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Or5xMmGlH_DIaF3GOCbk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Or5xMmGlH_DIaF3GOCbk-23" target="Or5xMmGlH_DIaF3GOCbk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Or5xMmGlH_DIaF3GOCbk-23" value="Define tests for each requirement&lt;br&gt;+ Tests cases (user scenarii)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="130" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
