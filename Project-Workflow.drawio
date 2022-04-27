@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T13:20:48.460Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6OaX2gnhG0RbGW_l14_I" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-27T13:21:01.148Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="FDFNyU6lcNjHns__z_rq" version="17.4.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Project_Workflow">
     <mxGraphModel dx="978" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GwG8qtyEL9PXScvXxR5n" name="StoryWorkflow">
+  <diagram id="GwG8qtyEL9PXScvXxR5n" name="Story_Workflow">
     <mxGraphModel dx="1418" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
