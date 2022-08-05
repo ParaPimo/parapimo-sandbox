@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T09:55:24.191Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pUVjA6OXd0iKDDAZQwo6" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T09:57:45.247Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I3v1XoRRJ-EB8BSEVGlO" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1418" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -38,7 +38,7 @@
         <mxCell id="LvpwblQ4MQLegynTFEqt-5" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvpwblQ4MQLegynTFEqt-1" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvpwblQ4MQLegynTFEqt-1" value="Assez d&#39;info" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LvpwblQ4MQLegynTFEqt-1" value="Enough Information ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="220" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LvpwblQ4MQLegynTFEqt-9" value="FINISH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LvpwblQ4MQLegynTFEqt-6" target="LvpwblQ4MQLegynTFEqt-8">
